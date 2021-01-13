@@ -55,5 +55,4 @@ Apache Spark course
 Apache Kafka
 
 > https://www.youtube.com/watch?v=daRykH67_qs
-  
 > https://www.youtube.com/watch?v=X40EozwK75s (streaming)
