@@ -2,7 +2,7 @@
 
 ## Light reading
 
-https://www.upwork.com/resources/beginners-guide-back-end-development
+> https://www.upwork.com/resources/beginners-guide-back-end-development
 
 ## Courses
 
