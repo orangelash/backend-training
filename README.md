@@ -44,7 +44,7 @@ DevOps course
 
 > https://www.youtube.com/watch?v=hQcFE0RD0cQ
 
-"""
+```
 11:21 What is DevOps?
 13:06 DevOps Stages
 21:40 Introduction to Git
@@ -69,7 +69,7 @@ DevOps course
     4:18:42 Kubernetes Architecture
     4:20:15 Working of Kubernetes
     4:21:40 Kubernetes Hands-on
-"""
+```
 
 Docker course
 
